@@ -11,11 +11,8 @@ Agora execute o cliente em uma outra máquina com o seguinte comando: `./cliente
 OBS: O PROJETO POSSUI COMANDOS ESPECÍFICOS PARA ENVIAR MSGS, IREI EXPLICAR DEPOIS
      QUE ANALISAR NOVAMENTE O CODIGO, E DISPONIBILIZAR OS COMANDOS
 
-OBS 2: Utilizar todos os comandos em caixa alta;
-     Se o comando PMSG não for seguido de 2 palavras ocorre alguma falha, 
-     pois a forma de execução do comando é = PMSG @apelido msg, 
-     pois há um corte da mensagem que nao foi tratada até o fim, sendo assim
-     execute os comandos como segue no plano do projeto.
+OBS 2: Execute os comandos como segue no plano do projeto. Qualquer alteração pode acarretar
+       na falha do processo.
 ==================================================================================
 
 Aluno: Ronaldo Tafarel Pereira de souza
